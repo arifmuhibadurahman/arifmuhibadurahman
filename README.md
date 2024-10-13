@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<h1 align="center">Hi 👋 there</h1>
 <h3 align="center">A tech entusiast and just script kiddie from 15 th biggest country in the world </h3>
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>

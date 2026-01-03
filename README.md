@@ -3,7 +3,7 @@
 <h3 align="left">A tech enthusiast and "script kiddie" from Indonesia 🇮🇩</h3>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifmuhibadurahman&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=arifmuhibadurahman&theme=dark&hide_border=true" alt="streak stats" />
 </p>
 
 ---

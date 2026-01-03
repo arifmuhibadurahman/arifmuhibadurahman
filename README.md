@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifmuhibadurahman&show_icons=true&locale=en&theme=visual_studio_code" alt="Arif's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifmuhibadurahman&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifmuhibadurahman&show_icons=true&locale=en&theme=visual_studio_code" alt="Arif's Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arifmuhibadurahman&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="Top Langs" height="150" />
 </p>
 
 ---
